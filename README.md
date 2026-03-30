@@ -126,15 +126,3 @@ Contributions are welcome. To contribute:
 5. Open a Pull Request
 
 ---
-
-## Author
-
-**Nishita Parija**
-- GitHub: [@nishitaparija](https://github.com/nishitaparija)
-- LinkedIn: [linkedin.com/in/nishitaparija](https://linkedin.com/in/nishitaparija)
-
----
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
